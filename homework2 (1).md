@@ -74,8 +74,8 @@ Now let's embed this document:
 
 - 0.3  
 - 0.5  
-- ✅ 0.7  
-- 0.9  
+-  0.7  
+- 0.9  ✅
 
 ---
 
@@ -85,8 +85,8 @@ Compute the embeddings for the `text` field, and compute the cosine between the 
 
 **What's the document index with the highest similarity? (Indexing starts from 0):**
 
-- ✅ 0  
-- 1  
+-  0  
+- 1  ✅
 - 2  
 - 3  
 - 4  
@@ -166,6 +166,6 @@ After inserting the data, query the collection using the query from Q1.
 **What's the highest score in the results?**
 
 - 0.97  
-- 0.87  
+- 0.87  ✅
 - 0.77  
-- ✅ 0.67  
+-  0.67  
