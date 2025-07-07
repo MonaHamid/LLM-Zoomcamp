@@ -9,7 +9,7 @@
 ### ✅ Question 1. dlt Version
 **Question**: What's the version of dlt that you installed?
 
-**Answer**: `0.4.6`  
+**Answer**: `1.12.3`  
 *(Or replace with the exact version printed from `print(dlt.__version__)`)*
 
 ---
@@ -38,6 +38,5 @@
 ---
 
 Prepared by: *Fareeda*  
-Colab Notebook: [Link to your notebook]  
-GitHub Repo: [Link to your repo]
+
 
